@@ -1,0 +1,19 @@
+Explaination of the fibonacci sequence and the breeding cycle of Rabbits related to Rosalind
+
+we first define of fibonaci rabbits on line 4 and give variables month and offspring
+    but why?
+        ~ offspring of each litter is an repeat number, this would not work if we had somme rabbits that had 3 per litter and some had 4
+        ~ the months are the # of breeding cycles
+
+Why is our range -1?
+    ~remember baby rabbits were just born and dont have babies, they may get mature the next cycle and be "adult" but are not truely parents yet as they are pregnant the first cycle in adult hood. 
+
+Finally why does the code return child?
+Simple we want to know the children that came out of one mom, 
+
+~ Try this yourself but my bunny was busy 
+here was the data set:
+34 2
+Over 34 monthsd of only having 2 babbyies a litter, this bunny produced 5726623061 other bunnies
+Thats enough bunnies to fill the whole backyard and then some. But some of here granschildren may have moved away and had bunnies elsewhere. Regardless Enjoy the accompanying code. 
+
