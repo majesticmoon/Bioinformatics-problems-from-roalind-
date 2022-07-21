@@ -1,0 +1,8 @@
+# defining strings in Python
+#  strings and lists
+s = "NOi00RdYKi4gtTHomopholisCOkPlKYjaB1P0EFqsmifhbQ8BLusTrr6zzGnqDigVpzBs1AP5NIoxsFvmargaritifera9SMYWVVPVYltAey0HpbyDEVtETG5vH1vPwYgyNdCrgV2uzYQYzFQjooubQ0t2riwzCEuSFzSq7ga6zpPpcM7QSN."
+a = 14
+b = 23
+c = 80
+d = 92
+print(s[a:b+1] + " " + s[c:d+1])
